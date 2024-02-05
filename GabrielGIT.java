@@ -14,5 +14,6 @@ public class GabrielGIT {
         System.out.println("Hello World!");
         int numeroUno = 1;
         int numeroDos = 2;
+        int numeroTres = 3;
     }
 }
